@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sites-io.github.io/utecanopiessupplier/sitemap.xml
